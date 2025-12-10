@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E60E7D4F-C891-4741-932D-3F2E99FD74A0"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7103376B-F018-49D4-A0AA-C05ADC7AD693"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wanghouyusheng/HeaderDefines.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8D63687-4E1D-428C-9F08-99E279801F70"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wanghouyusheng/Support/AboutMeController/SettingViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1520"
+            endingLineNumber = "1520"
+            landmarkName = "-initNeiGouView3"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "308A4725-3540-45DD-A715-E0D2A26615F7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wanghouyusheng/Support/AboutMeController/SettingViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1515"
+            endingLineNumber = "1515"
+            landmarkName = "-initNeiGouView3"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3CBB1B0D-580D-475A-82D9-D7A443B836D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wanghouyusheng/Support/NCAlertView/Classes/NCSuperVipAlertView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "594"
+            endingLineNumber = "594"
+            landmarkName = "-LookADClick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6489F6C1-5E27-4E6E-B2FB-B340BBE4D404"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "wanghouyusheng/YuSheng/YuShengClass/WHBianJiViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "WHBianJiViewController()"
+            landmarkType = "2">
+            <Locations>
+               <Location
+                  uuid = "6489F6C1-5E27-4E6E-B2FB-B340BBE4D404 - 4e7873824685be8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WHBianJiViewController locationManager]"
+                  moduleName = "wanghouyusheng"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenxi/Desktop/%E4%B8%AA%E4%BA%BA%E9%A1%B9%E7%9B%AEGIT20201113/3.%E5%BE%80%E5%90%8E%E4%BD%99%E7%94%9F/v2.0.5/WangHouYuShengAD1/wanghouyusheng/YuSheng/YuShengClass/WHBianJiViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "6489F6C1-5E27-4E6E-B2FB-B340BBE4D404 - 8be46e69cdea412"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WHBianJiViewController setLocationManager:]"
+                  moduleName = "wanghouyusheng"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chenxi/Desktop/%E4%B8%AA%E4%BA%BA%E9%A1%B9%E7%9B%AEGIT20201113/3.%E5%BE%80%E5%90%8E%E4%BD%99%E7%94%9F/v2.0.5/WangHouYuShengAD1/wanghouyusheng/YuSheng/YuShengClass/WHBianJiViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "49">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
